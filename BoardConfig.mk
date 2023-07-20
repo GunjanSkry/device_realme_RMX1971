@@ -4,6 +4,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+include vendor/realme/RMX1971/BoardConfigVendor.mk
+
 DEVICE_PATH := device/realme/RMX1971
 
 # Architecture
